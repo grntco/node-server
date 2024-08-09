@@ -10,3 +10,5 @@ CSS and Javsacript files are also loaded.
 A 404.html file is loaded for any pages with invalid paths.
 
 I mostly referred to [Traversy Media's Node.js Crash Course](https://www.youtube.com/watch?v=fBNz5xF-Kx4&t=950s) for setting this project up.
+
+I later rewrote the code with Express.
