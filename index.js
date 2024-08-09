@@ -25,7 +25,7 @@ app.get("/:page?", (req, res) => {
     } else {
       // Success
       res.setHeader("Content-Type", "text/html");
-      res.status(200).sendFile(filePath);
+      res.send(content);
     }
   });
 });
